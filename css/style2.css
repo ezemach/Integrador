@@ -1,0 +1,83 @@
+.navbar-brand img {
+    max-width: 100px;
+}
+
+#boton1 {
+    color: #25a342
+}
+
+#subtitulos {
+    text-align: center;
+
+}
+
+.carousel-item {
+    background-size: cover;
+    background-position: center center;
+    opacity: .8;
+}
+
+.card-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    align-items: flex-end;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 5%;
+}
+
+.card-group>div {
+    margin: 10px;
+    padding: 20px;
+}
+
+
+.row33 {
+    display: flex;
+    justify-content: flex-start;
+    background-color: rgb(56, 56, 57);
+    width: 120%;
+}
+
+.card-body {
+    display: flex;
+    margin-left: 28%;
+    margin-right: 15%;
+    margin-top: 10px;
+    flex-direction: column;
+
+}
+
+
+#row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+.mb-3 {
+    display: flex;
+    margin-left: 13%;
+
+
+}
+
+#formh6 {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.footer {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
